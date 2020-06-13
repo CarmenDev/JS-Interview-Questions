@@ -1,0 +1,14 @@
+{
+  "name": "js-theme-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Carmen",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
